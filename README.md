@@ -1,6 +1,6 @@
 # How to add multiple range gradient brushes in SfCircularGauge
 
-This repository contains sample for how to add multiple range gradient brushes in the [Syncfusion Xamarin.Forms Circular Gauge](https://help.syncfusion.com/xamarin/circular-gauge/getting-started) control.
+This repository contains sample to add multiple range gradient brushes in the [Syncfusion Xamarin.Forms Circular Gauge](https://help.syncfusion.com/xamarin/circular-gauge/getting-started) control.
 
 Please refer the KB through this [link](https://www.syncfusion.com/kb/10505/how-to-apply-gradient-color-for-ranges-in-xamarin-forms-sfcirculargauge).
 
